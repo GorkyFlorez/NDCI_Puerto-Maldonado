@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Puerto",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "_lflt_d": 318, "ftr_typ": "rectangle" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -69.28133, -12.690111 ], [ -69.28133, -12.463078 ], [ -69.11575, -12.463078 ], [ -69.11575, -12.690111 ], [ -69.28133, -12.690111 ] ] ] ] } }
+]
+}
